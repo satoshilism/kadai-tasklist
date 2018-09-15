@@ -31,3 +31,5 @@ module Tasklist
     config.generators.system_tests = nil
   end
 end
+
+config.i18n.default_locale = :ja
